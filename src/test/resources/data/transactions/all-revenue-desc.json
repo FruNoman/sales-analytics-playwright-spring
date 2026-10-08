@@ -1,0 +1,19 @@
+{
+  "data": [
+    { "id": "#1004", "date": "2025-02-03", "region": "Europe",        "category": "Appliances", "revenue": 2300 },
+    { "id": "#1009", "date": "2025-03-18", "region": "Asia",          "category": "Lighting",   "revenue": 2100 },
+    { "id": "#1010", "date": "2025-03-25", "region": "Europe",        "category": "Furniture",  "revenue": 1680 },
+    { "id": "#1005", "date": "2025-02-14", "region": "North America", "category": "Furniture",  "revenue": 1550 },
+    { "id": "#1008", "date": "2025-03-11", "region": "North America", "category": "Appliances", "revenue": 1430 },
+    { "id": "#1001", "date": "2025-01-05", "region": "Europe",        "category": "Furniture",  "revenue": 1200 },
+    { "id": "#1006", "date": "2025-02-20", "region": "Asia",          "category": "Furniture",  "revenue": 980 },
+    { "id": "#1002", "date": "2025-01-12", "region": "North America", "category": "Appliances", "revenue": 850 },
+    { "id": "#1007", "date": "2025-03-01", "region": "Europe",        "category": "Lighting",   "revenue": 760 },
+    { "id": "#1003", "date": "2025-01-18", "region": "Asia",          "category": "Lighting",   "revenue": 640 }
+  ],
+  "meta": {
+    "total": 10,
+    "returned": 10,
+    "filters": { "dateRange": "none", "region": "none", "category": "none", "sort": "rev_desc" }
+  }
+}

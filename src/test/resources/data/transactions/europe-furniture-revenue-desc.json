@@ -1,0 +1,11 @@
+{
+  "data": [
+    { "id": "#1010", "date": "2025-03-25", "region": "Europe",        "category": "Furniture",  "revenue": 1680 },
+    { "id": "#1001", "date": "2025-01-05", "region": "Europe",        "category": "Furniture",  "revenue": 1200 }
+  ],
+  "meta": {
+    "total": 10,
+    "returned": 2,
+    "filters": { "dateRange": "none", "region": "Europe", "category": "Furniture", "sort": "rev_desc" }
+  }
+}

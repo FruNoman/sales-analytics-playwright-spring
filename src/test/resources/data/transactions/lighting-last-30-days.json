@@ -1,0 +1,11 @@
+{
+  "data": [
+    { "id": "#1009", "date": "2025-03-18", "region": "Asia",          "category": "Lighting",   "revenue": 2100 },
+    { "id": "#1007", "date": "2025-03-01", "region": "Europe",        "category": "Lighting",   "revenue": 760 }
+  ],
+  "meta": {
+    "total": 10,
+    "returned": 2,
+    "filters": { "dateRange": "30", "region": "none", "category": "Lighting", "sort": "rev_desc" }
+  }
+}
